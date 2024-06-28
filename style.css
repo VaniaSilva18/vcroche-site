@@ -1,0 +1,133 @@
+.breadcrumb li a{
+    text-decoration:none;
+    font-family: "Poppins", sans-serif;
+    color: #5E81AC;
+    size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.breadcrumb li {    
+    list-style-type: none;
+    display: inline;
+}
+
+.breadcrumb{
+    display: flex;
+    justify-content: center;
+}
+
+.texto {
+    font-family: "Poller One", serif;
+    color: #5E81AC;
+    text-align: center;
+    
+}
+
+.texto2 {    
+    text-align: center;
+    width: 700;
+    size: 24px;
+    line-height: 36px;
+    color: #5E81AC;
+    font-family: "Poppins", sans-serif;
+    justify-content: center;
+}
+.desc {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    size: 40px;
+    line-height: 60px;
+    color: #86C349;
+    font-weight: bold;
+    text-align: center;
+  
+   
+}
+.orig {
+    font-family:  "Poppins", sans-serif;
+    size: 20px;
+    line-height: 30px;
+    font-weight: 300;
+    color:#6E737A;
+    text-align: center;
+   
+}
+
+.ou{
+    font-family:"Poppins", sans-serif;
+    font-weight: 400;
+    size: 16px;
+    line-height: 24px;
+    color: #2E3440;
+    text-align: center;
+    
+}
+
+.dividendo {
+    font-family:"Poppins", sans-serif ;
+    font-size: 700;
+    size: 16px;
+    line-height: 24px;
+    color:  #2E3440;
+    text-align: center;
+   
+}
+
+.expl {
+    font-family: "Poppins", sans-serif;
+    size: 16px;
+    line-height: 24px;
+    text-align: center;
+   
+}
+
+.botão {
+    width: 363px;
+    height: 65.86px;
+    top: 1014px;
+    left: 27px;
+    gap: 0px;
+    opacity: 0px;
+    background: #272727;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    size: 24px;
+    line-height: 36px;
+    align-items: center;
+    color:#ECEFF4;
+    justify-items: center;
+    justify-content: center;
+    display: flex;
+    display: block;
+    margin: auto;
+    width: 363px; 
+    
+    
+    
+}
+
+body {
+    background: #ECEFF4;
+
+}
+
+.img{ 
+
+        display: flex;
+        justify-content: center;
+    }
+
+#frio{
+        justify-content: center;
+        margin: auto;
+        line-height: 4;
+        display: grid;
+        grid-gap: 10px;
+        
+
+    }
+    
+    
+
+
