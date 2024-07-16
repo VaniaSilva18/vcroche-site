@@ -1,4 +1,5 @@
-.breadcrumb li a{
+.breadcrumb li a
+{
     text-decoration:none;
     font-family: "Poppins", sans-serif;
     color: #5E81AC;
@@ -7,24 +8,26 @@
     font-weight: 400;
 }
 
-.breadcrumb li {    
+.breadcrumb li 
+{    
     list-style-type: none;
     display: inline;
 }
 
-.breadcrumb{
+.breadcrumb
+{
     display: flex;
     justify-content: center;
 }
 
-.texto {
-    font-family: "Poller One", serif;
+.texto 
+{   font-family: "Poller One", serif;
     color: #5E81AC;
     text-align: center;
-    
-}
+    }
 
-.texto2 {    
+.texto2 
+{    
     text-align: center;
     width: 700;
     size: 24px;
@@ -83,7 +86,6 @@
 }
 
 .botão {
-    width: 363px;
     height: 65.86px;
     top: 1014px;
     left: 27px;
@@ -100,16 +102,11 @@
     justify-content: center;
     display: flex;
     display: block;
-    margin: auto;
-    width: 363px; 
-    
-    
-    
+    margin: auto; 
 }
 
 body {
     background: #ECEFF4;
-
 }
 
 .img{ 
@@ -119,15 +116,189 @@ body {
     }
 
 #frio{
+        
         justify-content: center;
         margin: auto;
         line-height: 4;
         display: grid;
         grid-gap: 10px;
+    }
+
+    footer{ 
+        background-color: #3B4252;
         
+        
+       
+    }
+    #nos{
+        font-family: Poppins;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 36px;
+        text-align: left;
+        color: #FFFFFF;
+        font-family: "Poppins", sans-serif;
+        padding-top: 57px;
+        padding-left: 26px;
+        padding-right: 155px;
+     }
+     .icon3{
+        width: 26px;
+        height: 26px;
+        top: 104px;
+        left: 26px;
+        padding: 26px;
+    }
+
+
+    .icon2{
+
+        width: 26px;
+        height: 26px;
+        top: 104px;
+        left: 78px;
+        padding: 26px;
+
+    }
+
+    .icon1 {
+        width: 26px;
+        height: 26px;
+        top: 104px;
+        left: 130px;
+        gap: 0px;
+        opacity: 0px;
+        padding: 26px;
+
+        
+}
+
+    .fp{
+        
+      
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 36px;
+        text-align: left;
+        color:#FFFFFF;
+        font-family: "Poppins", sans-serif;
+        padding-left: 26px;
+        padding-right: 106px;
+        
+        
+        
+    }
+
+    
+   .info {
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    color: #FFFFFF;
+    padding-left: 26px;
+    
+    }
+    .men {
+
+        font-family: Poppins;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 18px;
+        text-align: left;
+        color: #D8DEE9;
+    
 
     }
     
-    
+    .cp{
+        width: 313px;
+        height: 77px;
+        top: 832px;
+        left: 27px;
+        font-family: "Poppins", sans-serif;
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 15px;
+        text-align: left;
+        color: #D8DEE9;
+        padding-left: 26px;
+
+ }
 
 
+
+ .links{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    font-family: "Poppins", sans-serif;
+    color: #FFFFFF;
+    padding-left: 26px;    
+ }
+
+.men2{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    font-family: "Poppins", sans-serif;
+}
+
+.new{
+    font-family: "Poppins", sans-serif;   
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    color: #FFFFFF;
+    padding-left: 26px;
+}
+
+.input-container  { 
+    padding: 5px 10px;
+    height: 35px;
+    top: 745px;
+    left: 26px;
+    gap: 0px;
+    opacity: 0px;
+    color:#282C35;
+}       
+
+.button2{
+    background: #282C35;
+    width: 250px;
+    height: 100%;
+    top: 100%;
+    left: 100%;
+    display: flex;
+    font-family: "Poppins", sans-serif;  
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 15px;
+    text-align: left;
+    color:#3F4657;
+}
+
+.seguirr {
+    width: 30%;
+    top: 745px;
+    left: 189px;
+    background-color:  #EFB94D;
+    font-family: "Poppins", sans-serif;  
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 18px;
+    text-align: center;
+    border: none;
+}   
+
+.prom {
+    font-family: "Poppins", sans-serif;   
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 18px;
+    text-align: left;
+}
