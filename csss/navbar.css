@@ -1,0 +1,37 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+#title{
+    background-color: transparent;
+    font-family: Poller One , sans-serif;;
+    font-size: 36px;
+    border: none;
+    display: block;
+    font-weight: 400;
+    line-height: 42.79px;
+    text-align: center;
+    padding-left: 64px;
+    padding-right: 64px;
+    color:#5E81AC;  
+}
+
+.menu{
+    width: 25px;
+    height: 20px;
+    border: none;
+    background-color: transparent;
+}
+.carrinho{
+    width: 25px;
+    height: 20px;
+    border: none;
+    background-color: transparent;
+}
+
+.rodape{
+    background-color:  #3B4252;
+    ;
+}

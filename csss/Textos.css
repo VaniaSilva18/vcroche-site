@@ -1,0 +1,212 @@
+
+
+.subt {
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+    color: #5E81AC;
+    text-align: center;
+    
+
+
+}
+
+.valores{
+    text-align: center;
+}
+.quatrocentos{
+    text-decoration: line-through;
+    color: #6E737A;
+    font-size: 20px;
+    display: inline-block;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+
+}
+.valorreal{
+    color: #86C349;
+    font-size: 40px;
+    display: inline-block;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.ou{
+    font-family: "Poppins", sans-serif;
+    color:  #3B4252;
+    font-weight: bold;
+    text-align: center;
+    font-size: 24px ;
+    
+
+
+}
+
+.parcelamento{
+    color: #2E3440;
+    font-family: "Poppins", sans-serif;
+    line-height: 24px;
+
+
+}
+.juros{
+    font-weight: bold;
+    line-height: 24px;
+    color: #2E3440;
+
+    
+    }
+
+.valordivi{
+    line-height: 24px;
+    display: inline;
+    font-weight: bold;
+    color: #2E3440;
+
+  
+}
+
+.infom{
+    line-height: 16px;
+    display: inline-block;
+    color:#2E3440;
+    font-family: "Poppins", sans-serif;
+
+
+}
+
+.desconto{
+    display: inline-block;
+    font-weight: bold;
+
+    
+}   
+
+.Acompanhe{
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    padding-top: 57px;
+    padding-left: 26px;
+
+}
+
+.Pagamento{
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    padding-left: 26px;
+    
+}
+
+.info{
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    margin-bottom: 12px;
+    padding-left: 26px;
+    
+
+}
+
+.cinfo{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    
+    color:#D8DEE9;
+    
+    
+}
+
+.atendimento{
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    margin-bottom: 12px;
+    padding-left: 26px;
+}
+
+
+.catendimento{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    color:#D8DEE9;
+    
+
+}
+
+.links a {
+    text-decoration: none;
+}
+.links{
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    margin-bottom: 12px;
+    padding-left: 26px;
+
+}
+
+.register a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+
+.register{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    color:#D8DEE9;
+    display: block;
+
+}
+
+
+.blog{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    color:#D8DEE9;
+    display: block;
+
+
+}
+.map{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    color:#D8DEE9;
+    display: block;
+
+}
+
+.Newsletter{
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    margin-bottom: 12px;
+    padding-left: 26px;
+}
+
+.cupom{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    color:#D8DEE9;
+    
+
+}
+
+.copyright{
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+    color:#D8DEE9;
+    margin-bottom: 12px;
+    padding-left: 27px;
+    margin-bottom: 27px;
+
+}
